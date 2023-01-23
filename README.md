@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=youness240&label=Profile%20views&color=0e75b6&style=flat" alt="youness240" /> </p>
 
-- 🌱 I’m currently learning **mobile development**
+- 🌱 I’m currently learning **Web and Software development**
 
 - 📫 How to reach me **essabriyouness@outlook.fr**
 
